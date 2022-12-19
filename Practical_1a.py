@@ -1,0 +1,10 @@
+print("Jeena Vinod Kumar, 32")
+print("input x=")
+x = float(input())
+print("weight w=")
+w = float(input())
+Yin = x * w
+print("input x=", x)
+print("weight z=", w)
+print("net input Yin=", Yin)
+print("Done")
